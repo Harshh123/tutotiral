@@ -17,6 +17,5 @@ else
 printf("lowest number=%d",c);
 }
 }
-else
-{
-printf
+printf("greater number=%d",a);
+}
